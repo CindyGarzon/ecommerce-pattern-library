@@ -5,7 +5,7 @@ patternbot:
   title: "Floral Shop"
   description: |
     Small floral shop with the best flowers, tailor to our custmers making the perfect arrangments.
-  font_url: "https://fonts.googleapis.com/css?family=Baloo|Lora&display=swap"
+  font_url: "https://fonts.googleapis.com/css?family=Lora|Thasadith:400,700&display=swap"
   colors:
     background: "--color-primary-light"
     accent: "--color-primary-dark"
