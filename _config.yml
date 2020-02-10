@@ -13,9 +13,9 @@ patternbot:
       brand.logos: "--color-primary-light"
   rationales:
     typefaces.primary: |
-      Baloo is a distinctive heavy spurless design with a subtle tinge of playfulness and all the bare necessities of type. Snuggling several scripts under a single weight, the typeface focuses on giving equal justice to every act of this gentle jungle affair to secure single and multi-script use. Carefree yet confident, warm yet entertaining, sprightly yet intelligible, Baloo infuses life everywhere it goes.
-    typefaces.secondary: |
       Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text.
+    typefaces.secondary: |
+      Thasadith is a Thai and Latin family. It's a humanist sans serif with rounded corners. It was originally developed as part of the Srisakdi family.
     colors.primary: |
       The primary colours represent the softness of the flowers. Should be use in the foreground.
     colors.secondary: |

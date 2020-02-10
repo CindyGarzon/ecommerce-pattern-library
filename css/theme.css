@@ -1,12 +1,12 @@
 :root {
-  --color-primary: #baf1e4;
-  --color-primary-light: #ded5d1;
-  --color-secondary: #e1b39b;
-  --color-accent: #e77a6f;
-  ---color-neutral-beige: #f43b59;
+  --color-primary: #fac1b3;
+  --color-primary-light: #fbebe4;
+  --color-secondary: #c53921;
+  --color-accent: #d6824c;
+  ---color-neutral-beige: #e4a58e;
 
-  --font-primary :"Thasadith", sans-serif;
-  --font-secondary: "Lora", serif;
+  --font-primary :"Lora", serif;
+  --font-secondary: "Thasadith", sans-serif;
 }
 
 html {
@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-  color: var(--color-primary-light);
+  color: var(--color-secondary);
 }
 
 a {
