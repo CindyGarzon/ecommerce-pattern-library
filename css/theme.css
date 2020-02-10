@@ -12,3 +12,30 @@
 html {
   font-family: var (--font-primary);
 }
+
+h1 {
+  color: var(--color-primary-light);
+  font-weight: 500;
+}
+
+h2 {
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+p {
+  color: var(--color-primary-light);
+}
+
+a {
+  color: var(--color-secondary);
+  transition: all .15s linear;
+}
+
+a:hover, a:focus {
+  color: var(---color-neutral-beige);
+}
+
+mark {
+  background-color: var(--color-primary-light);
+}
