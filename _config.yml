@@ -2,4 +2,11 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "Floral Shop"
+  description: Valuing our customers is our number one priority. With our 5 star customer service rating we are here to support you from product selection through delivery and after. We don’t outsource your experience, our in house team is familiar with each product and can help you to make the best choices for your designs.
+  rationales:
+    typefaces.primary:
+      Baloo is a distinctive heavy spurless design with a subtle tinge of playfulness and all the bare necessities of type. Snuggling several scripts under a single weight, the typeface focuses on giving equal justice to every act of this gentle jungle affair to secure single and multi-script use. Carefree yet confident, warm yet entertaining, sprightly yet intelligible, Baloo infuses life everywhere it goes.
+      typefaces.secondary:
+        Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text.
   font-url: "https://fonts.googleapis.com/css?family=Baloo|Lora&display=swap" rel="stylesheet"
