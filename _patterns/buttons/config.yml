@@ -1,15 +1,15 @@
-title:"Buttons"
+title: "Buttons"
 description: |
-Buttons should be used for dramatic impact and to make things more obvious when an action is required.
+  Buttons should be used for dramatic impact and to make things more obvious when an action is required.
 
 patterns:
-  basic: basic.html
+  basic:
     title: "Basic"
-      description: |
-        Default to using the basic button.
-      width: "12em"
- ghost:
-   title: "Ghost"
-   description: |
+    description: |
+      Default to using the basic button.
+    width: "12em"
+  ghost:
+    title: "Ghost"
+    description: |
       The ghost button is specifically for banners.
-  background: "--color-primary-light"
+    background: "--color-secondary"
