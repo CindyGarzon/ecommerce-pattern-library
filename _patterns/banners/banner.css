@@ -1,24 +1,24 @@
-.hero-image {
-  background-color: #000;
-  background-position: center;
+.masthead {
+  background-position: left top, left bottom, left top;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav a {
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.nav a:hover {
   background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  margin-bottom: 3em;
 }
 
-.hero-text {
-  color: #ffffff;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+@media only screen and (min-width: 60em) {
 
-.banner-header {
-  color: #ffffff;
-}
+  .nav {
+    text-align: right;
+  }
 
-.banner-img {
-  opacity: 60%;
 }
