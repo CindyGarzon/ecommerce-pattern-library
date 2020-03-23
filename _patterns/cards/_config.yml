@@ -1,0 +1,22 @@
+permalink: pretty
+theme: jekyll_patternbot
+
+patternbot:
+  title: "Floral Shop"
+  description: |
+    Small floral shop with the best flowers, tailor to our custmers making the perfect arrangments.
+  font_url: "https://fonts.googleapis.com/css?family=Lora|Thasadith:400,700&display=swap"
+  colors:
+    background: "--color-primary-light"
+    accent: "--color-primary-dark"
+    patterns:
+      brand.logos: "--color-primary-light"
+  rationales:
+    typefaces.primary: |
+      Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text.
+    typefaces.secondary: |
+      Thasadith is a Thai and Latin family. It's a humanist sans serif with rounded corners. It was originally developed as part of the Srisakdi family.
+    colors.primary: |
+      The primary colours represent the softness of the flowers. Should be use in the foreground.
+    colors.secondary: |
+      The secondary colours are more colorful, continuing with the theme of florals and should be use for background.

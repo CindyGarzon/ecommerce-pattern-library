@@ -1,0 +1,15 @@
+patterns:
+  homepage-banner:
+    title: "Main Banner"
+    description: |
+      This is the main banner. It should be used only on homepage
+    fields:
+      - name: title
+        type: string
+        example: "A WONDERFUL GIFT"
+      - name: details
+        type: string
+        example: "Fresh flowers"
+      - name: image
+        type: image
+        example: "banner.jpg"
