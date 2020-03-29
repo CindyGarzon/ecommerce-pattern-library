@@ -1,0 +1,28 @@
+
+.icon-logo {
+  width: 40px;
+}
+
+.navigation {
+  text-align: center;
+}
+
+.navigation a {
+  font-family: var(--font-secondary);
+}
+
+.logo {
+  text-align: center;
+}
+
+@media only screen and (min-width: 38em) {
+
+.logo {
+  text-align: left;
+}
+
+.navigation {
+  text-align: right;
+}
+
+}
