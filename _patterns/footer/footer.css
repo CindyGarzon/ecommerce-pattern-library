@@ -1,0 +1,22 @@
+footer ul {
+  list-style-type: none;
+  text-decoration: none;
+  font-family: var(--font-secondary);
+}
+
+footer a {
+  text-decoration: none;
+  color: --var(--color-secondary-dark);
+  font-family: var(--font-secondary);
+}
+
+.footer {
+  background-color: --var(--color-secondary-light);
+  font-family: var(--font-secondary);
+
+}
+
+ul li a:hover {
+  background-color: --var(--color-primary-dark)
+  text-decoration: underline;
+}
