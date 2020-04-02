@@ -1,24 +1,12 @@
-.masthead {
-  background-position: left top, left bottom, left top;
+.banner-homepage {
+  position: relative;
 }
 
-.nav {
-  text-align: center;
-}
+@media only screen and (min-width: 38em) {
 
-.nav a {
-  text-decoration: none;
-  border-radius: 8px;
-}
-
-.nav a:hover {
-  background-repeat: no-repeat;
-}
-
-@media only screen and (min-width: 60em) {
-
-  .nav {
-    text-align: right;
+  .banner-content {
+    position: absolute;
+    bottom: 0;
   }
 
 }

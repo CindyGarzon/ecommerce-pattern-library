@@ -8,9 +8,10 @@
 
 .logo-header {
   width: 25%;
+  height: 25%;
 }
 
-.shop {
+.shopping {
   margin-left: 3em;
   margin-right: 3em;
 }
@@ -22,7 +23,7 @@
 
 .search-icon {
   top: 5px;
-  left: 105px;
+  left: 125px;
 }
 
 .searchline {
