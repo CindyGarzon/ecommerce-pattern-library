@@ -1,9 +1,16 @@
+title: "Banners"
+description:
+  Banners is used for some top of homepag.
+
 patterns:
-  banner:
+  homepage:
+    title: "Homepage"
+    description:
+      This banner is used for homepage. It is located on top of homepage.
     fields:
-      -name: heading
-      type: string
-      example: Flowers for every occasion!
-      -name: text
-      type: string
-      example: Free deliveries.
+      - name: heading
+        type: string
+        example: "Flowers for every occacion"
+      - name: text
+        type: string
+        example: "Free Delivery"
