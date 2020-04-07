@@ -1,0 +1,9 @@
+patterns:
+  banner:
+    fields:
+      -name: heading
+      type: string
+      example: Flowers for every occasion!
+      -name: text
+      type: string
+      example: Free deliveries.
