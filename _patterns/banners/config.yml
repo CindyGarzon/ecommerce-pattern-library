@@ -14,3 +14,14 @@ patterns:
       - name: text
         type: string
         example: "Free Delivery"
+      - name: icon
+        type: string
+        example: "logo"
+      - name: button_text
+        type: string
+        example: "Checkout"
+        required: false
+      - name: button_url
+        type: url
+        example: "/Checkout/"
+        required: false

@@ -8,8 +8,34 @@ patterns:
     description: |
       Default to using the basic button.
     width: "12em"
+    fields:
+      - name: text
+        type: string
+        example: "Order Now!"
+      - name: url
+        type: url
+        example: "/product/"
   ghost:
     title: "Ghost"
     description: |
       The ghost button is specifically for banners.
     background: "--color-secondary"
+    fields:
+      - name: text
+        type: string
+        example: "View Arrangments"
+      - name: url
+        type: url
+        example: "/shop/"
+  light:
+    title: "Light"
+    description:
+      The light button is mainly used for open more content on the page.
+  checkout:
+    title: "Checkout"
+    description:
+      This button is used for checkout page.
+    fields:
+      - name: text
+        type: string
+        example: "Checkout"
